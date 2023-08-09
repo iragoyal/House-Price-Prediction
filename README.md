@@ -15,18 +15,6 @@ This repository contains the Jupyter Notebook code for building a simple linear 
 
 Predicting house prices is a common problem in the field of machine learning and real estate. In this project, we implement a linear regression model to predict house prices based on a set of input features. Linear regression is a simple yet powerful algorithm that fits a linear relationship between the input features and the target variable.
 
-## Dataset
-
-The dataset used for training and evaluating the model is available in the `data` directory. The dataset contains the following columns:
-
-- `SquareFeet`: The square footage of the house.
-- `Bedrooms`: The number of bedrooms in the house.
-- `Bathrooms`: The number of bathrooms in the house.
-- `GarageCars`: The number of cars that can be accommodated in the garage.
-- `YearBuilt`: The year the house was built.
-- `HouseAge`: The age of the house (calculated as the difference between the current year and `YearBuilt`).
-- `Price`: The target variable, i.e., the price of the house.
-
 ## Requirements
 
 Make sure you have the following dependencies installed before running the Jupyter Notebook:
