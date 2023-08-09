@@ -1,4 +1,3 @@
-# House-Price-Prediction
 # House Price Prediction using Linear Regression
 
 This repository contains the Jupyter Notebook code for building a simple linear regression model to predict house prices. The model utilizes the popular machine learning technique of linear regression to make predictions based on input features.
